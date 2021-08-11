@@ -1,0 +1,16 @@
+.svg-bg {
+    --tw-bg-opacity: 1;
+    background-color: rgba(31, 41, 55, var(--tw-bg-opacity));
+}
+
+#tech:hover>div>svg {
+    width: 50px;
+    height: 50px;
+    padding-left: 20px;
+    border-radius: 9999px;
+    background: #c52b32;
+}
+
+#tech:hover>h6 {
+    color: #c52b32!important;
+}
